@@ -418,6 +418,10 @@ body {
   text-align:justify;
 }
 
+#about .link {
+  color:#ecf0f1;
+}
+
 .logo {
   height:20px;
 }
@@ -454,8 +458,24 @@ body {
   header .header-content {
     min-height:100vh;
   }
+ .nav-container {
+    background: #34495e;
+ }
+ .navbar-default .navbar-header .navbar-toggle {
+  color:#fff;
+ }
 }
 .btn-regis {
   padding: 10px 20px;
   font-size:13px;
+}
+.divider {
+  width:80%;
+  margin:20px auto;
+  height:1px;
+  background:#ddd;
+}
+#contact .panel-body p {
+  padding:0 10%;
+  margin-bottom:5px;
 }
