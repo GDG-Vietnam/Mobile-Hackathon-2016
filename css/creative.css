@@ -479,3 +479,6 @@ body {
   padding:0 10%;
   margin-bottom:5px;
 }
+.logo-hackathon {
+  max-height: 50px;
+}
